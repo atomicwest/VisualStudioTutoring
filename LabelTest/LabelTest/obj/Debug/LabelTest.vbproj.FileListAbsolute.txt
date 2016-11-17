@@ -1,0 +1,10 @@
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\bin\Debug\LabelTest.exe.config
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\bin\Debug\LabelTest.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\bin\Debug\LabelTest.pdb
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\bin\Debug\LabelTest.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\obj\Debug\LabelTest.Form1.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\obj\Debug\LabelTest.Resources.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\obj\Debug\LabelTest.vbproj.GenerateResource.Cache
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\obj\Debug\LabelTest.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\obj\Debug\LabelTest.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\LabelTest\LabelTest\obj\Debug\LabelTest.pdb

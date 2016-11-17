@@ -1,0 +1,10 @@
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\bin\Debug\Ex3Greeting.exe.config
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\bin\Debug\Ex3Greeting.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\bin\Debug\Ex3Greeting.pdb
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\bin\Debug\Ex3Greeting.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\obj\Debug\Ex3Greeting.Form1.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\obj\Debug\Ex3Greeting.Resources.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\obj\Debug\Ex3Greeting.vbproj.GenerateResource.Cache
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\obj\Debug\Ex3Greeting.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\obj\Debug\Ex3Greeting.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex3Greeting\Ex3Greeting\obj\Debug\Ex3Greeting.pdb
