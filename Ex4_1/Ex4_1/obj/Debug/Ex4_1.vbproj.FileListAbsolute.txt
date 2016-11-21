@@ -1,0 +1,10 @@
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\bin\Debug\Ex4_1.exe.config
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\obj\Debug\Ex4_1.Form1.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\obj\Debug\Ex4_1.Resources.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\obj\Debug\Ex4_1.vbproj.GenerateResource.Cache
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\bin\Debug\Ex4_1.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\bin\Debug\Ex4_1.pdb
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\bin\Debug\Ex4_1.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\obj\Debug\Ex4_1.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\obj\Debug\Ex4_1.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4_1\Ex4_1\obj\Debug\Ex4_1.pdb

@@ -1,0 +1,10 @@
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\bin\Debug\Ex4-2_MPG.exe.config
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\bin\Debug\Ex4-2_MPG.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\bin\Debug\Ex4-2_MPG.pdb
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\bin\Debug\Ex4-2_MPG.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\obj\Debug\Ex4_2_MPG.Form1.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\obj\Debug\Ex4_2_MPG.Resources.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\obj\Debug\Ex4-2_MPG.vbproj.GenerateResource.Cache
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\obj\Debug\Ex4-2_MPG.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\obj\Debug\Ex4-2_MPG.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\Ex4-2_MPG\Ex4-2_MPG\obj\Debug\Ex4-2_MPG.pdb
