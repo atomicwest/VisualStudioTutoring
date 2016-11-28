@@ -1,0 +1,10 @@
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\bin\Debug\SolarSystemWeight.exe.config
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\bin\Debug\SolarSystemWeight.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\bin\Debug\SolarSystemWeight.pdb
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\bin\Debug\SolarSystemWeight.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\obj\Debug\SolarSystemWeight.Form1.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\obj\Debug\SolarSystemWeight.Resources.resources
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\obj\Debug\SolarSystemWeight.vbproj.GenerateResource.Cache
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\obj\Debug\SolarSystemWeight.exe
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\obj\Debug\SolarSystemWeight.xml
+c:\users\atomicwest\documents\visual studio 2012\Projects\SolarSystemWeight\SolarSystemWeight\obj\Debug\SolarSystemWeight.pdb
