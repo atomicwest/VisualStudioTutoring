@@ -29,7 +29,7 @@ Public Module Module1
 				newWeight = 0.069 * weight
 		End Select
 		
-		lblResult.Text = newWeight.ToString("n0")
+		lblResult.Text = "Your weight on " & cboPlanets & " is " & newWeight.ToString("n0") & " pounds."
 		
 	End Sub
 	
