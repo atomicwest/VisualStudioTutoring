@@ -9,7 +9,7 @@ using namespace std;
 
 bool startVowel(string word){
 	
-	char first = word[0];
+	char first = tolower(word[0]);
 
 	string vowels = "aeiou";
 	for (int i=0; i<vowels.length(); i++) {
@@ -46,9 +46,10 @@ string pigConsonant(string word) {
 void main() {
 	string word;
 	
-  cout << "Enter a word to translate: ";
+  	cout << "Enter a word to translate: ";
 	cin >> word;
 	cout << endl << endl << endl;
+	
 	cout << "In Pig Latin: " << endl << endl;
   
 	if (startVowel(word)) {
