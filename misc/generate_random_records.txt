@@ -1,0 +1,71 @@
+#generate text files
+
+import random
+
+outFile = "output_text_checked.txt"
+numRecord = 50
+
+firstnames = [
+        'Jyn',
+        'Obi-Wan',
+        'Leia',
+        'Luke',
+        'Han',
+        'Rey',
+        'Finn',
+        'Mace',
+        'Yoda',
+        'Mon'
+        ]
+
+lastnames = [
+        'Erso',
+        'Kenobi',
+        'Organa',
+        'Skywalker',
+        'Solo',
+        'Jinn',
+        'Calrissian',
+        'Windu',
+        'Henson',
+        'Mothma'
+        ]
+
+lightsaber_color = [
+        'blue',
+        'green',
+        'purple',
+        'vermillion',
+        'saffron'
+        ]
+
+def randomRecord():
+    lname = lastnames[random.randint(0,len(lastnames)-1)]
+    fname = firstnames[random.randint(0,len(firstnames)-1)]
+    lscolor = lightsaber_color[random.randint(0,len(lightsaber_color)-1)]
+    killcount = str(random.randint(0,100))
+    record = '{:<15}{:<15}{:<15}{:<4} \n'.format(lname, fname, lscolor, killcount)
+    return record
+
+def create():
+    f = open(outFile, 'w')
+    colname = '{:<15}{:<15}{:<15}{:<4} \n'.format('Last Name', 'First Name', 'Saber Color', 'Kill Count')
+    f.write(colname)
+
+    allrecords = "" #store records here to check for duplicate records
+    for i in range(numRecord):
+        nextrecord = randomRecord()
+        comparison = nextrecord[0:29]        #check last/first name combo
+        while comparison in allrecords:
+            nextrecord = randomRecord()
+            comparison = nextrecord[0:29]        #check last/first name combo
+
+        allrecords+=nextrecord
+        # f.write(randomRecord())       #use this line instead of the while loop to permit people with the same name
+
+    f.write(allrecords)
+
+    f.close()
+
+if __name__ == "__main__":
+    create()
